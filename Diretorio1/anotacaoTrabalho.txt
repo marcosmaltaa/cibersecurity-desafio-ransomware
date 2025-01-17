@@ -1,0 +1,11 @@
+Status Atual
+Objetivo Geral: [Descreva o objetivo principal do projeto.]
+Progresso Atual: Até o momento, [detalhe o progresso feito, como percentuais ou marcos atingidos].
+Tarefas Concluídas:
+[Tarefa 1]
+[Tarefa 2]
+[Tarefa 3]
+Próximas Etapas
+Tarefa 1: [Descrição e prazo estimado.]
+Tarefa 2: [Descrição e prazo estimado.]
+Tarefa 3: [Descrição e prazo estimado.]
